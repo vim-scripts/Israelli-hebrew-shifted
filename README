@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=866
+
+A Hebrew alphabet keyboard map, according to the standart Israelli keyboard layout, on a US-ASCII keyboard, to ISO-8859-8 hebrew chars.Instade of using punctuation keys for ending(finial) letters, we use shifted keys, rendering three obvious advatages.
+Also, the usage of 'reversed-insert' mode is configurable.
